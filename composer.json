@@ -1,6 +1,9 @@
 {
+  "name": "frappant/radcliffe-2",
+  "description": "A fork of the radcliffe 2 wordpress theme",
   "type"    : "wordpress-theme",
   "require" : {
-    "composer/installers" : "~1.0"
+    "composer/installers" : "~1.0",
+    "php": ">=7.4"
   }
 }
